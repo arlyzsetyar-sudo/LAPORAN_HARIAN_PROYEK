@@ -1,0 +1,6 @@
+{
+  "name": "Laapor",
+  "description": "Laporan progress pekerjaan proyek berbasis foto real-time kamera dan ekspor PDF profesional",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
